@@ -1,0 +1,25 @@
+{"id": "E-01", "text": "Vendor submitted a power bank listing but attached no battery safety test documentation.", "expected_category": "DOCUMENTATION_MISSING", "expected_rule_id": "R-001"}
+{"id": "E-02", "text": "This face cream has no ingredient list or INCI declaration anywhere in the submission.", "expected_category": "DOCUMENTATION_MISSING", "expected_rule_id": "R-002"}
+{"id": "E-03", "text": "The listing appears to be a precursor chemical that can be converted into a regulated controlled substance.", "expected_category": "RESTRICTED_PRODUCT", "expected_rule_id": "R-003"}
+{"id": "E-04", "text": "Seller is trying to list a realistic imitation firearm under the toys category for the German store.", "expected_category": "RESTRICTED_PRODUCT", "expected_rule_id": "R-004"}
+{"id": "E-05", "text": "A protein supplement listing shows no allergen statement and no net quantity in Polish.", "expected_category": "LABELING_NONCOMPLIANCE", "expected_rule_id": "R-005"}
+{"id": "E-06", "text": "This electric kettle has no CE marking shown on the product or its packaging photos.", "expected_category": "LABELING_NONCOMPLIANCE", "expected_rule_id": "R-006"}
+{"id": "E-07", "text": "The item was filed under kitchenware but the commodity code puts it under a different safety regime.", "expected_category": "MISCLASSIFICATION", "expected_rule_id": "R-007"}
+{"id": "E-08", "text": "A blood-pressure monitor claiming to diagnose hypertension is listed as a general consumer gadget.", "expected_category": "MISCLASSIFICATION", "expected_rule_id": "R-008"}
+{"id": "E-09", "text": "A box cutter with exposed blades has no age verification applied to the listing.", "expected_category": "AGE_RESTRICTION", "expected_rule_id": "R-009"}
+{"id": "E-10", "text": "This herbal capsule listing claims it cures diabetes and reverses heart disease.", "expected_category": "PROHIBITED_CLAIM", "expected_rule_id": "R-010"}
+{"id": "E-11", "text": "Packaging is advertised as fully biodegradable but no supporting certification is provided.", "expected_category": "PROHIBITED_CLAIM", "expected_rule_id": "R-011"}
+{"id": "E-12", "text": "The submitted net weight for this product is listed as 0 kg, which breaks our reporting pipeline.", "expected_category": "DATA_QUALITY", "expected_rule_id": "R-012"}
+{"id": "E-13", "text": "Two listings share the exact same EAN but have different titles and dimensions.", "expected_category": "DATA_QUALITY", "expected_rule_id": "R-013"}
+{"id": "E-14", "text": "The product record has no country of origin filled in at all.", "expected_category": "COUNTRY_OF_ORIGIN", "expected_rule_id": "R-014"}
+{"id": "E-15", "text": "An aerosol spray deodorant was submitted without any transport hazard class or UN number.", "expected_category": "HAZMAT", "expected_rule_id": "R-015"}
+{"id": "E-16", "text": "This phone case uses a well-known sportswear brand's logo without any authorization on file.", "expected_category": "IP_INFRINGEMENT", "expected_rule_id": "R-016"}
+{"id": "E-17", "text": "The listing image contains adult content not allowed on the Swedish marketplace.", "expected_category": "OFFENSIVE_CONTENT", "expected_rule_id": "R-017"}
+{"id": "E-18", "text": "A desk lamp is listed with no EU energy-efficiency label or class shown.", "expected_category": "ENERGY_LABELING", "expected_rule_id": "R-018"}
+{"id": "E-19", "text": "Cordless drill with an internal lithium battery, submitted with no UN38.3 summary attached.", "expected_category": "DOCUMENTATION_MISSING", "expected_rule_id": "R-001"}
+{"id": "E-20", "text": "A multivitamin gummy is marketed with the phrase 'clinically proven to prevent cancer'.", "expected_category": "PROHIBITED_CLAIM", "expected_rule_id": "R-010"}
+{"id": "E-21", "text": "The country of origin is declared as a currently sanctioned/embargoed territory.", "expected_category": "COUNTRY_OF_ORIGIN", "expected_rule_id": "R-014"}
+{"id": "E-22", "text": "Vendor emailed asking what time the warehouse closes for drop-off on Fridays.", "expected_category": "NO_MATCH", "expected_rule_id": null}
+{"id": "E-23", "text": "Customer left a 5-star review saying the packaging was really pretty.", "expected_category": "NO_MATCH", "expected_rule_id": null}
+{"id": "E-24", "text": "The product ships with a small corrosive cleaning fluid but no ADR classification is provided, and separately the title appears to copy a trademarked brand term.", "expected_category": "HAZMAT", "expected_rule_id": "R-015"}
+{"id": "E-25", "text": "Just a note that the listing looks fine and passed all checks, no action needed.", "expected_category": "NO_MATCH", "expected_rule_id": null}
